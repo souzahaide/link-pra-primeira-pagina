@@ -1,0 +1,48 @@
+body {
+    background: #525151f8;
+}
+
+ 
+
+
+h1 {
+    text-align: center; font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+   text-align: center;
+}
+
+#missão {
+    font-size: 30px;
+}
+
+em strong {
+    color: rgb(19, 17, 19);
+}
+
+h4 {
+    text-align: center; font-size: 30px;
+}
+
+h5{
+    text-align: center; font-size: 15px;
+
+}
+
+.itens {
+    font-style: italic;
+}
+#videotec2 {
+    width: 90%;
+    height: 100;
+ }
